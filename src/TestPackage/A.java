@@ -14,6 +14,7 @@ void m1()
 		System.out.println("");
 		System.out.println("Amol Pawar");
 		System.out.println("test");
+		System.out.println("newly added");
 
 
 	}
